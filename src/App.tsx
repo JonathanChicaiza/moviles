@@ -1,8 +1,8 @@
-import 'bootstrap/dist/css/bootstrap.min.css'
-import Titulo from "./titulo";
+// import React from 'react';
+import Card from "./Components/Cards";
 
 function App() {
-  return <Titulo />;
+  return <Card />;
 }
 
 export default App;
