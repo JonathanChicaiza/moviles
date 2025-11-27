@@ -36,7 +36,7 @@ function App() {
       <div className="container my-5">
 
         <h2 className="fw-bold text-success mb-4 text-center">
-          🐾 Animales Destacados
+          🐾 Animales Destacadoss
         </h2>
 
         <div className="row g-4">
